@@ -7,6 +7,7 @@ Number of actions: [ 5]
 Number range, minimum: [-1000]
 The range of numbers, max [1000]   
 Valid arithmetic operations:
+
 2+2? [X]
 
 2-2? [X]
