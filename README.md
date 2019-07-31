@@ -5,7 +5,7 @@ Develop a program to generate examples for the control work on arithmetic. The f
 Number of examples: [ 1]
 Number of actions: [ 5]
 Number range, minimum: [-1000]
-The range of numbers, max [1000]   
+The range of numbers, max [1000]
 Valid arithmetic operations:
 
 2+2? [X]
