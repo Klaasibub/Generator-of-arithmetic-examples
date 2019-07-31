@@ -8,10 +8,15 @@ Number range, minimum: [-1000]
 The range of numbers, max [1000]   
 Valid arithmetic operations:
 2+2? [X]
+
 2-2? [X]
+
 2*2? [X]
+
 2:2? [X]
+
 -(-2)? [X] // sign change
+
 The name of the output file: [kontr1.txt]
 
 Here [X] - checkboxes; [...] - input fields.
